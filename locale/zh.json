@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Blender 预览",
+    "description": "在侧边栏渲染 .blend 文件，文件一变就自动重新渲染，跟着建模进度走。"
+  }
+}

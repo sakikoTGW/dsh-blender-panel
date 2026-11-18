@@ -1,0 +1,4 @@
+# dsh-blender-panel bundle patch: Host(渲染路由) + Client(Better Sidebar 预览页)。
+- insert:
+    - id: blender-panel
+      name: '@local/dsh-blender-panel'

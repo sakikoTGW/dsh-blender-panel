@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Blender Panel",
+    "description": "A sidebar tab that renders a .blend file with Blender and refreshes when the file changes."
+  }
+}
